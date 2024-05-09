@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-genonetest-staging-220329-authRole",
+      "UnauthRoleArn": "arn:aws:iam::758437821423:role/amplify-genonetest-staging-220329-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::758437821423:role/amplify-genonetest-staging-220329-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-genonetest-staging-220329-deployment",
+      "UnauthRoleName": "amplify-genonetest-staging-220329-unauthRole",
+      "StackName": "amplify-genonetest-staging-220329",
+      "StackId": "arn:aws:cloudformation:us-west-1:758437821423:stack/amplify-genonetest-staging-220329/28a1c8c0-fc3d-11ee-87be-061446326fc9",
+      "AmplifyAppId": "drbz5dlba2o4o"
+    }
+  }
+}
